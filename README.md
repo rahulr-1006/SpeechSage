@@ -9,28 +9,28 @@ In the fast-paced world of communication, the ability to deliver compelling and 
 
 ### **Timeline**
 
-- **Phase 1: Conceptualization & Research (Weeks 1-2)**
+- **Phase 1: Conceptualization & Research**
   - **Objective**: To thoroughly understand the key components of effective speech delivery and identify measurable factors for improvement.
   - **Tasks**:
     - Literature review on speech analysis techniques.
     - Consultations with public speaking experts to define key areas of focus (e.g., tone, pacing, filler words).
     - Research available technologies for speech-to-text conversion and natural language processing.
 
-- **Phase 2: Initial Design & Architecture (Weeks 3-4)**
+- **Phase 2: Initial Design & Architecture**
   - **Objective**: To design the overall architecture of the app, including the user interface, backend, and data processing pipelines.
   - **Tasks**:
     - Wireframe design for the user interface, focusing on usability and user experience.
     - Outline the architecture of the app, including the frontend, backend, and integration with external APIs.
     - Define the data processing flow for converting speech to text, analyzing the text, and providing feedback.
 
-- **Phase 3: Speech-to-Text Integration (Weeks 5-7)**
+- **Phase 3: Speech-to-Text Integration**
   - **Objective**: To implement robust and accurate speech-to-text conversion using available APIs and tools.
   - **Tasks**:
     - Integration of Google Cloud Speech-to-Text API for high-accuracy transcription.
     - Implementation of fallback solutions using open-source tools like Mozilla DeepSpeech for scenarios where API access is limited.
     - Testing and refining the transcription process to ensure accuracy across various accents and speech styles.
 
-- **Phase 4: Natural Language Processing & Text Analysis (Weeks 8-12)**
+- **Phase 4: Natural Language Processing & Text Analysis**
   - **Objective**: To develop and integrate NLP algorithms for analyzing the transcribed text and identifying areas of improvement.
   - **Tasks**:
     - Implementation of NLP techniques using libraries like spaCy and NLTK for identifying filler words, pacing issues, and tone.
@@ -38,28 +38,28 @@ In the fast-paced world of communication, the ability to deliver compelling and 
     - Feature extraction from the text to identify clarity, structure, and coherence.
     - Creation of a scoring model to provide an overall quality assessment of the speech.
 
-- **Phase 5: Feedback System & UI Integration (Weeks 13-15)**
+- **Phase 5: Feedback System & UI Integration**
   - **Objective**: To create an interactive feedback system that highlights areas for improvement and integrates with the user interface.
   - **Tasks**:
     - Development of a feedback generation engine that provides detailed suggestions for improvement.
     - Integration of the feedback system with the frontend, enabling real-time feedback display.
     - Implementation of a user-friendly dashboard that presents the overall quality score, highlights, and recommendations.
 
-- **Phase 6: Testing, Iteration, & Refinement (Weeks 16-20)**
+- **Phase 6: Testing, Iteration, & Refinement**
   - **Objective**: To thoroughly test the app, gather user feedback, and refine the features for optimal performance and usability.
   - **Tasks**:
     - Beta testing with a diverse group of users to assess the accuracy and usability of the app.
     - Iteration based on user feedback, focusing on improving the accuracy of analysis and the clarity of feedback.
     - Final refinements to the user interface, performance optimization, and bug fixing.
 
-- **Phase 7: Deployment & Documentation (Weeks 21-22)**
+- **Phase 7: Deployment & Documentation**
   - **Objective**: To deploy the app to a cloud platform and create comprehensive documentation for end-users and developers.
   - **Tasks**:
     - Deployment to a cloud service like AWS or Google Cloud, ensuring scalability and reliability.
     - Creation of user documentation, including tutorials and FAQs.
     - Development of a technical guide for future contributors, outlining the architecture, codebase, and development processes.
 
-- **Phase 8: Launch & Post-Launch Support (Weeks 23-24)**
+- **Phase 8: Launch & Post-Launch Support**
   - **Objective**: To officially launch the app and provide ongoing support to users.
   - **Tasks**:
     - Official launch announcement and marketing campaign.
